@@ -9,18 +9,16 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!--
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
+![GitHub Repo stars](https://img.shields.io/github/stars/technictoms/localization-of-wooden-defects)
+![GitHub forks](https://img.shields.io/github/forks/technictoms/localization-of-wooden-defects)
+![GitHub issues](https://img.shields.io/github/issues/technictoms/localization-of-wooden-defects)
+![GitHub License](https://img.shields.io/github/license/technictoms/localization-of-wooden-defects)
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/technictoms/localization-of-wooden-defects">
     <img src="images/Overview.png" alt="Logo" width="100%">
   </a>
 
@@ -34,9 +32,9 @@
     <br />
     <a href="https://github.com/technictoms/">View Results</a>
     ·
-    <a href="https://github.com/technictoms/repo/issues">Report Bug</a>
+    <a href="https://github.com/technictoms/localization-of-wooden-defects/issues">Report Bug</a>
     ·
-    <a href="https://github.com/technictoms/repo/issues">Ask a question</a>
+    <a href="https://github.com/technictoms/localization-of-wooden-defects/issues">Ask a question</a>
   </p>
 </div>
 
@@ -156,7 +154,7 @@ As stated above, the results can be accessed through the Results folder. They ar
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/technictoms/repo_name](https://github.com/technictoms/repo_name)
+Project Link: [https://github.com/technictoms/localization-of-wooden-defects](https://github.com/technictoms/localization-of-wooden-defects)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,14 +167,3 @@ To give credits please cite the following publication:
 > T. Sander, C. Wöhler, **"Localization and Classification of Defects on Natural Wood Surfaces,"** 2024, in 25nd IEEE International Conference on Industrial Technology (ICIT). Vol. 1. IEEE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
