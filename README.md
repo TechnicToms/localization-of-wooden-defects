@@ -86,7 +86,7 @@ To carry out the experiments successfully, the following steps have to be perfor
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/technictoms/Project-Name.git
+   git clone https://github.com/technictoms/localization-of-wooden-defects.git
    ```
 2. Install all required packages
    ```sh
