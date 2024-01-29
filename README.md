@@ -104,7 +104,7 @@ This repository utilizes the datasets "NaturalOak" and "ImageNet", which can be 
 
 |  Dataset:    | Link:                 |
 |--------------|-----------------------|
-| NaturalOak   | [NaturalOak](LinkToDo)|
+| NaturalOak   | [NaturalOak](https://doi.org/10.5281/zenodo.10245845)|
 | ImageNet     | [ImageNet@Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge)|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
